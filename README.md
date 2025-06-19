@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https:www.linkedin.com/in/
-//ikramullah-54a3b337](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikramullah." height="30" width="40" /></a>
+<a href="[[https:www.linkedin.com/in/
+//ikramullah-54a3b337](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/in/ikramullah-54a3b3370/))0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikramullah." height="30" width="40" /></a>
 <a href="https://fb.com/ikramullah naqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikramullah naqvi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/balti coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="balti coder" height="30" width="40" /></a>
 </p>
